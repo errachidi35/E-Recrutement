@@ -1,0 +1,326 @@
+﻿@model IEnumerable<E_Recrutement.Models.Offer>
+@using PagedList;
+@using E_Recrutement.Common;
+
+@{
+    Layout = "_Layout";
+}
+
+<style>
+    .pagination {
+        list-style-type: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+    }
+
+        .pagination li {
+            margin: 0 5px;
+        }
+
+            .pagination li a {
+                display: inline-block;
+                padding: 5px 10px;
+                border: 1px solid #ccc;
+                color: #333;
+                text-decoration: none;
+                border-radius: 5px;
+            }
+
+            .pagination li.active a {
+                background-color: #333;
+                color: #fff;
+            }
+</style>
+
+<!-- Start banner Area -->
+<section class="banner-area relative" id="home">
+    <div class="overlay overlay-bg"></div>
+    <div class="container">
+        <div class="row d-flex align-items-center justify-content-center">
+            <div class="about-content col-lg-12">
+                <h1 class="text-white">
+                    @if (ViewBag.ContractType == null && ViewBag.Province == null && ViewBag.Recruiter == null)
+                    {
+                        <text>@ViewBag.jobCount IT Jobs For Developers</text>
+                    }
+                    else
+                    {
+                        <text>
+                            @((ViewBag.ContractType != null ? $"{ViewBag.ContractType.Name} jobs" : null) ??
+                                (ViewBag.Province != null ? $"Jobs in {ViewBag.Province.Name}" :
+                                (ViewBag.Employer != null ? $"{ViewBag.Employer.FullName} Jobs" : null))))
+                        </text>
+                    }
+                </h1>
+                <p class="text-white link-nav"><a href="/">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="/job"> All Jobs</a></p>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End banner Area -->
+
+
+<!-- Start post Area -->
+<section class="post-area section-gap">
+    <div class="container">
+        <div class="row justify-content-center d-flex">
+            <div class="col-lg-8 post-list">
+
+                <!-- ContractType view component -->
+                <vc:time></vc:time>
+
+                <!-- Filter Section -->
+                @using (Html.BeginForm("Search", "Offer", FormMethod.Get, new { @class = "search-form" }))
+                {
+                    
+                        <div class="search-group">
+                            <label for="keywords" class="search-label">Keywords:</label>
+                            <input type="text" name="keywords" id="keywords" class="search-input" />
+                        </div>
+                        <br />
+                    <div class="search-container">
+                        <div class="search-group">
+                            <label for="sectorId" class="search-label">Sector:</label>
+                            <select name="sectorId" id="sectorId" class="search-select">
+                                <option value="">-- Select Sector --</option>
+                                @foreach (var sector in ViewBag.Sectors)
+                                {
+                                    <option value="@sector.Id">@sector.Name</option>
+                                }
+                            </select>
+                        </div>
+                        <div class="search-group">
+                            <label for="contractTypeId" class="search-label">Contract Type:</label>
+                            <select name="contractTypeId" id="contractTypeId" class="search-select">
+                                <option value="">-- Select Contract Type --</option>
+                                @foreach (var contractType in ViewBag.ContractTypes)
+                                {
+                                    <option value="@contractType.Id">@contractType.Name</option>
+                                }
+                            </select>
+                        </div>
+                        <div class="search-group">
+                            <label for="profileId" class="search-label">Profile:</label>
+                            <select name="profileId" id="profileId" class="search-select">
+                                <option value="">-- Select Profile --</option>
+                                @foreach (var profile in ViewBag.Profiles)
+                                {
+                                    <option value="@profile.Id">@profile.Name</option>
+                                }
+                            </select>
+                        </div>
+                        <br />
+                        <button type="submit" class="search-button">Search</button>
+                    </div>
+                }
+
+
+                <br /><br /><br />
+
+                @* <div class="filter-section">
+                    <form action="/offer/search" method="get">
+                        <div class="form-row align-items-center">
+                            <div class="col-md-4 my-1">
+                                <input type="text" class="form-control" name="keywords" placeholder="Search by keywords">
+                            </div>
+                            <div class="col-md-4 my-1">
+                                <select class="custom-select mr-sm-2" name="sector">
+                                    <option value="">Select Sector</option>
+                                    @foreach (var sector in ViewBag.Sectors)
+                                    {
+                                    <option value="@sector.Id">@sector.Name</option>
+                                    }
+                                </select>
+                            </div>
+                            <div class="col-md-4 my-1">
+                                <select class="custom-select mr-sm-2" name="contractType">
+                                    <option value="">Select Contract Type</option>
+                                    @foreach (var contractType in ViewBag.ContractTypes)
+                                    {
+                                    <option value="@contractType.Id">@contractType.Name</option>
+                                    }
+                                </select>
+                            </div>
+                            <div class="col-md-4 my-1">
+                                <select class="custom-select mr-sm-2" name="profil">
+                                    <option value="">Select Profile</option>
+                                    @foreach (var profile in ViewBag.Profiles)
+                                    {
+                                    <option value="@profile.Id">@profile.Name</option>
+                                    }
+                                </select>
+                            </div>
+                            <div class="col-md-4 my-1">
+                                <button type="submit" class="btn btn-primary">Search</button>
+                            </div>
+                        </div>
+                    </form>
+                </div> *@
+
+                <!-- Job list -->
+                @if (Model.Any())
+                {
+                @foreach (var job in Model)
+                    {
+                <div class="single-post d-flex flex-row">
+                    <!-- Job skill
+        <div class="thumb" style="align-items:center">
+
+            <hr />
+            <ul class="tags" style="justify-content:center; text-align: center; border-radius:10px">
+
+            </ul>
+        </div>
+        End job skill -->
+                    <div class="details" style="margin-left:20px; width:600px;">
+                        <div class="title d-flex flex-row justify-content-between">
+                            <div class="titles">
+                                <a href="/job/@job.Slug"><h4>@job.Name</h4></a>
+                                <h5 style="color: gray"><span class="lnr lnr-hourglass"></span> @GetContractTypeAgo(job.CreateDate)</h5>
+                                <h5><strong>From: <a href="/company/@job.User.Slug">@job.User.FullName</a></strong></h5>
+                            </div>
+                        </div>
+                        <hr>
+                        <p>@Html.Raw(job.Introduce)</p>
+                        <hr />
+                        <div style="display:flex; justify-content: space-between;">
+                            <div>
+                                <h5><strong>Job Nature: @job.ContractType.Name</strong></h5>
+                                <h5 style="color: blue"><span class="lnr lnr-book"></span> <strong>@job.Profil.Name</strong></h5>
+                                <h5 style="color: blue"><span class="lnr lnr-book"></span> <strong>@job.Sector.Name</strong></h5>
+                                <h5 style="color: green"><strong>$ @job.MinSalary - @job.MaxSalary USD</strong></h5>
+                            </div>
+                            <div style="text-align:right; margin-top: 40px">
+                                <ul class="btns">
+                                    <li style="border-radius:10px"><a href="/offer/@job.Slug">Apply now</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    }
+                }
+                else
+                {
+                <div class="text-center" style="margin-top: 50px;">
+                    <img src="~/images/default/oops.png" alt="oops" width="600" height="400" style="margin-bottom: 10px; border-radius:10px">
+                    <h4>Oops! There are currently no jobs available.</h4>
+                </div>
+                }
+                <!-- End job list -->
+                <!-- Page list -->
+                <div class="text-center">
+                    <ul class="pagination">
+                        @{
+                            string slug = null;
+                            if (ViewBag.ContractType != null)
+                            {
+                                slug = ViewBag.ContractType.Slug;
+                            }
+                            else if (ViewBag.Skill != null)
+                            {
+                                slug = ViewBag.Skill.Slug;
+                            }
+                            else if (ViewBag.Province != null)
+                            {
+                                slug = ViewBag.Province.Slug;
+                            }
+                            else if (ViewBag.Employer != null)
+                            {
+                                slug = ViewBag.Employer.Slug;
+                            }
+                        }
+                        @* @Html.PagedListPager((IPagedList)Model,
+                page => Url.Action("Index", new { slug, page }),
+                new PagedListRenderOptions
+                {
+                Display = PagedListDisplayMode.IfNeeded,
+                LiElementClasses = new string[] { "page-item" },
+                UlElementClasses = new string[] { "pagination" },
+                PageClasses = new string[] { "page-link" },
+                MaximumPageNumbersToDisplay = 5, // Maximum number of pages displayed
+                LinkToPreviousPageFormat = "<span aria-hidden=\"true\">&lsaquo;</span>",
+                LinkToNextPageFormat = "<span aria-hidden=\"true\">&rsaquo;</span>",
+                LinkToFirstPageFormat = "<span aria-hidden=\"true\">&lsaquo;&lsaquo;</span>",
+                LinkToLastPageFormat = "<span aria-hidden=\"true\">&rsaquo;&rsaquo;</span>"
+                }) *@
+                    </ul>
+                </div>
+
+            </div>
+
+            <!-- Sidebar -->
+            @*             @Html.Partial("../Shared/_SidebarPartial.cshtml")
+            *@
+        </div>
+    </div>
+</section>
+
+<!-- End calto-action Area -->
+@functions {
+    public string GetContractTypeAgo(DateTime? createDate)
+    {
+        DateTime actualCreateDate = createDate.Value;
+        TimeSpan timeAgo = DateTime.Now - actualCreateDate;
+
+        if (timeAgo.TotalMinutes < 60)
+        {
+            return $"Posted {Math.Max(1, (int)timeAgo.TotalMinutes)} minute{(timeAgo.TotalMinutes >= 2 ? "s" : "")} ago";
+        }
+        else if (timeAgo.TotalHours < 24)
+        {
+            return $"Posted {Math.Max(1, (int)timeAgo.TotalHours)} hour{(timeAgo.TotalHours >= 2 ? "s" : "")} ago";
+        }
+        else
+        {
+            return $"Posted {Math.Max(1, (int)timeAgo.TotalDays)} day{(timeAgo.TotalDays >= 2 ? "s" : "")} ago";
+        }
+    }
+}
+
+        <style>
+    .search-form {
+        margin-top: 20px;
+    }
+
+    .search-container {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .search-group {
+        margin-right: 20px;
+        margin-bottom: 10px;
+    }
+
+    .search-label {
+        font-weight: bold;
+    }
+
+    .search-input,
+    .search-select {
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    .search-button {
+        margin-top : 20px;
+        padding: 8px 20px;
+        border: none;
+        border-radius: 5px;
+        background-color: #007bff;
+        color: #fff;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .search-button:hover {
+            background-color: #0056b3;
+        }
+
+
+        </style>

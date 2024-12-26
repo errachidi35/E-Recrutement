@@ -1,0 +1,1382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Offer\\Detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Offer\\Detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511162905_UpdateUserMIGRATION.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240511162905_UpdateUserMIGRATION.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511160416_UpdateOfFerMIGRATION.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240511160416_UpdateOfFerMIGRATION.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511132756_intialMigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240511132756_intialMigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511125529_intialMigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240511125529_intialMigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511093136_intialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240511093136_intialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511090501_UpdateOfferMigrationn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240511090501_UpdateOfferMigrationn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511090318_UpdateOfferMigration6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240511090318_UpdateOfferMigration6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511085701_UpdateOfferMigration5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240511085701_UpdateOfferMigration5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511082054_UpdateOfferMigration4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240511082054_UpdateOfferMigration4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511080224_UpdateOfferMigration3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240511080224_UpdateOfferMigration3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511075707_UpdateOfferMigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240511075707_UpdateOfferMigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240510181929_updateSectorMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240510181929_updateSectorMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240510161547_updateOfferMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240510161547_updateOfferMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240510161059_SeedProvinceTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240510161059_SeedProvinceTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240510152303_updateOfferMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240510152303_updateOfferMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abdel\\AppData\\Local\\Temp\\ae065871-7192-4b9b-a00e-5f98098259b4_job-portal-main.zip.9b4\\job-portal-main\\JobPortal.WebApp\\Areas\\Employer\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\HomeRecruiter\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\HomeRecruiter\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_MenuPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_MenuPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_EmployerLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_EmployerLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Offer\\Update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Offer\\Update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\Recruiter\\OfferController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\Recruiter\\OfferController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Job\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Job\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\Recruiter\\RecruiterController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\Recruiter\\RecruiterController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Recruiter\\RegisterToRecruiter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Recruiter\\RegisterToRecruiter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Recruiter\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Recruiter\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Offer\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Offer\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Offer\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Offer\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\Offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\UpdateRecruiterViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModel\\UpdateRecruiterViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\RegisterRecruiterViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModel\\RegisterRecruiterViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Candidate\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Candidate\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Recruiter\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Recruiter\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Apply\\Apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Apply\\Apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Apply\\ListApplies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Apply\\ListApplies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Apply\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Apply\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\OfferController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\OfferController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\ApplyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ApplyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\CV.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\CV.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\Recruiter\\HomeRecruiterController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\Recruiter\\HomeRecruiterController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\wwwroot\\assets\\user\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\assets\\user\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\wwwroot\\assets\\user\\img\\logo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\assets\\user\\img\\logo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_NavbarPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_NavbarPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_LayoutAccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_LayoutAccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_EmployerLoginLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_EmployerLoginLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\Recruiter\\ApplyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\Recruiter\\ApplyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\E-Recrutement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Recrutement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\Profil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Profil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\ContractType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ContractType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\Province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\Sector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Sector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CreateOfferViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModel\\CreateOfferViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240513005259_SeedMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240513005259_SeedMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240513004057_initialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240513004057_initialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CVsViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModel\\CVsViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\ApplyRecruiter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\ApplyRecruiter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_SidebarPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_SidebarPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\RegisterViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModel\\RegisterViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\CandidateController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\CandidateController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CreateSectorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModel\\CreateSectorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\UpdateOfferViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModel\\UpdateOfferViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CreateSkillViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModel\\CreateSkillViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CreateProfilViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModel\\CreateProfilViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Common\\TextHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Common\\TextHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Common\\RoleSeeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Common\\RoleSeeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CreateProvinceViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModel\\CreateProvinceViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CreateCVViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModel\\CreateCVViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\Skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\ChangePasswordViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModel\\ChangePasswordViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Candidate\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Candidate\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_Layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_Layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\HomeRecruiter\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HomeRecruiter\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\HomeRecruiter\\Index.cshtml",
+              "RelativeToolTip": "Views\\HomeRecruiter\\Index.cshtml",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAGwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T18:36:07.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T17:46:27.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_MenuPartial.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_MenuPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_MenuPartial.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_MenuPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_MenuPartial.cshtml",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T01:10:56.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_EmployerLayout.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_EmployerLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_EmployerLayout.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_EmployerLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_EmployerLayout.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAwwMAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T18:32:28.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Offer\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\Offer\\Update.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Offer\\Update.cshtml",
+              "RelativeToolTip": "Views\\Offer\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T17:08:43.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OfferController.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\Recruiter\\OfferController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Recruiter\\OfferController.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\Recruiter\\OfferController.cs",
+              "RelativeToolTip": "Controllers\\Recruiter\\OfferController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAIA2wF4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:07:13.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Job\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Job\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Job\\Index.cshtml",
+              "RelativeToolTip": "Views\\Job\\Index.cshtml",
+              "ViewState": "AQIAALoAAAAAAAAAAAAAAMIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T16:53:40.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Offer\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Offer\\Detail.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Offer\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Offer\\Detail.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T17:01:21.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RecruiterController.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\Recruiter\\RecruiterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Recruiter\\RecruiterController.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\Recruiter\\RecruiterController.cs",
+              "RelativeToolTip": "Controllers\\Recruiter\\RecruiterController.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAIwNIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:15:11.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterToRecruiter.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Recruiter\\RegisterToRecruiter.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recruiter\\RegisterToRecruiter.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Recruiter\\RegisterToRecruiter.cshtml",
+              "RelativeToolTip": "Views\\Recruiter\\RegisterToRecruiter.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAE4AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T23:34:01.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Recruiter\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recruiter\\Register.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Recruiter\\Register.cshtml",
+              "RelativeToolTip": "Views\\Recruiter\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T17:32:16.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Offer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Offer\\Create.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Offer\\Create.cshtml",
+              "RelativeToolTip": "Views\\Offer\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T13:19:56.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Offer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Offer\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Offer\\Index.cshtml",
+              "RelativeToolTip": "Views\\Offer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T17:04:08.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Offer.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\Offer.cs",
+              "RelativeDocumentMoniker": "Models\\Offer.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\Offer.cs",
+              "RelativeToolTip": "Models\\Offer.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:19:18.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:52:44.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateRecruiterViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\UpdateRecruiterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\UpdateRecruiterViewModel.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\UpdateRecruiterViewModel.cs",
+              "RelativeToolTip": "ViewModel\\UpdateRecruiterViewModel.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAApwCQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:24:05.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterRecruiterViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\RegisterRecruiterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\RegisterRecruiterViewModel.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\RegisterRecruiterViewModel.cs",
+              "RelativeToolTip": "ViewModel\\RegisterRecruiterViewModel.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA5wCkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:14:52.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T18:53:36.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Candidate\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Candidate\\Login.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Candidate\\Login.cshtml",
+              "RelativeToolTip": "Views\\Candidate\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T23:25:14.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Recruiter\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recruiter\\Login.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Recruiter\\Login.cshtml",
+              "RelativeToolTip": "Views\\Recruiter\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T11:00:22.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Apply\\Apply.cshtml",
+              "RelativeDocumentMoniker": "Views\\Apply\\Apply.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Apply\\Apply.cshtml",
+              "RelativeToolTip": "Views\\Apply\\Apply.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T00:11:01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ListApplies.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Apply\\ListApplies.cshtml",
+              "RelativeDocumentMoniker": "Views\\Apply\\ListApplies.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Apply\\ListApplies.cshtml",
+              "RelativeToolTip": "Views\\Apply\\ListApplies.cshtml",
+              "ViewState": "AQIAAGIBAAAAAAAAAAAAAGwBAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T00:13:18.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Apply\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Apply\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Apply\\Index.cshtml",
+              "RelativeToolTip": "Views\\Apply\\Index.cshtml",
+              "ViewState": "AQIAAMUBAAAAAAAAAAAIwPIBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T23:31:49.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OfferController.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\OfferController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OfferController.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\OfferController.cs",
+              "RelativeToolTip": "Controllers\\OfferController.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAwwIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:18:24.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ApplyController.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\ApplyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplyController.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\ApplyController.cs",
+              "RelativeToolTip": "Controllers\\ApplyController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwEgAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:34:03.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CV.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\CV.cs",
+              "RelativeDocumentMoniker": "Models\\CV.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\CV.cs",
+              "RelativeToolTip": "Models\\CV.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA0wAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:18:54.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "HomeRecruiterController.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\Recruiter\\HomeRecruiterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Recruiter\\HomeRecruiterController.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\Recruiter\\HomeRecruiterController.cs",
+              "RelativeToolTip": "Controllers\\Recruiter\\HomeRecruiterController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:54:03.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAUwDcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:01:07.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAD4vzAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:41:07.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "main.css",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\wwwroot\\assets\\user\\css\\main.css",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\user\\css\\main.css",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\wwwroot\\assets\\user\\css\\main.css",
+              "RelativeToolTip": "wwwroot\\assets\\user\\css\\main.css",
+              "ViewState": "AQIAALsHAAAAAAAAAAAcwKAHAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-13T22:30:39.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "logo.png",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\wwwroot\\assets\\user\\img\\logo.png",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\user\\img\\logo.png",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\wwwroot\\assets\\user\\img\\logo.png",
+              "RelativeToolTip": "wwwroot\\assets\\user\\img\\logo.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-13T22:37:45.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_NavbarPartial.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_NavbarPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_NavbarPartial.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_NavbarPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_NavbarPartial.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T18:34:00.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_LayoutAccount.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_LayoutAccount.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutAccount.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_LayoutAccount.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutAccount.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAF4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T00:58:29.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-13T21:50:37.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_EmployerLoginLayout.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_EmployerLoginLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_EmployerLoginLayout.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_EmployerLoginLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_EmployerLoginLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T18:33:49.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\wwwroot\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\css\\style.css",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\wwwroot\\assets\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\assets\\css\\style.css",
+              "ViewState": "AQIAAFULAAAAAAAAAAAcwGMLAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-13T21:50:52.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ApplyController.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\Recruiter\\ApplyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Recruiter\\ApplyController.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\Recruiter\\ApplyController.cs",
+              "RelativeToolTip": "Controllers\\Recruiter\\ApplyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T00:23:33.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "E-Recrutement.csproj",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\E-Recrutement.csproj",
+              "RelativeDocumentMoniker": "E-Recrutement.csproj",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\E-Recrutement.csproj",
+              "RelativeToolTip": "E-Recrutement.csproj",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T21:19:00.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Profil.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\Profil.cs",
+              "RelativeDocumentMoniker": "Models\\Profil.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\Profil.cs",
+              "RelativeToolTip": "Models\\Profil.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:11:44.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ContractType.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\ContractType.cs",
+              "RelativeDocumentMoniker": "Models\\ContractType.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\ContractType.cs",
+              "RelativeToolTip": "Models\\ContractType.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:17:13.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Province.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\Province.cs",
+              "RelativeDocumentMoniker": "Models\\Province.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\Province.cs",
+              "RelativeToolTip": "Models\\Province.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA3wBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T01:17:50.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:41:25.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Sector.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\Sector.cs",
+              "RelativeDocumentMoniker": "Models\\Sector.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\Sector.cs",
+              "RelativeToolTip": "Models\\Sector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:18:00.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CreateOfferViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CreateOfferViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CreateOfferViewModel.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CreateOfferViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CreateOfferViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:02:47.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20240513005259_SeedMigration.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240513005259_SeedMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240513005259_SeedMigration.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240513005259_SeedMigration.cs",
+              "RelativeToolTip": "Migrations\\20240513005259_SeedMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T00:52:59.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240513004057_initialMigration.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240513004057_initialMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240513004057_initialMigration.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240513004057_initialMigration.cs",
+              "RelativeToolTip": "Migrations\\20240513004057_initialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T00:41:02.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CVsViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CVsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CVsViewModel.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CVsViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CVsViewModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:25:34.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ApplyRecruiter.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\ApplyRecruiter.cshtml",
+              "RelativeDocumentMoniker": "Views\\ApplyRecruiter.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\ApplyRecruiter.cshtml",
+              "RelativeToolTip": "Views\\ApplyRecruiter.cshtml",
+              "ViewState": "AQIAAJoBAAAAAAAAAADwv7QBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T00:10:01.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "_SidebarPartial.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_SidebarPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_SidebarPartial.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_SidebarPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_SidebarPartial.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwCEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T17:23:43.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\RegisterViewModel.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModel\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:49:15.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CandidateController.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "Controllers\\CandidateController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:51:18.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240511160416_UpdateOfFerMIGRATION.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511160416_UpdateOfFerMIGRATION.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240511160416_UpdateOfFerMIGRATION.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511160416_UpdateOfFerMIGRATION.cs",
+              "RelativeToolTip": "Migrations\\20240511160416_UpdateOfFerMIGRATION.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:04:16.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240511162905_UpdateUserMIGRATION.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511162905_UpdateUserMIGRATION.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240511162905_UpdateUserMIGRATION.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511162905_UpdateUserMIGRATION.cs",
+              "RelativeToolTip": "Migrations\\20240511162905_UpdateUserMIGRATION.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:29:07.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CreateSectorViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CreateSectorViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CreateSectorViewModel.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CreateSectorViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CreateSectorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:18:57.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwEYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:26:14.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UpdateOfferViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\UpdateOfferViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\UpdateOfferViewModel.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\UpdateOfferViewModel.cs",
+              "RelativeToolTip": "ViewModel\\UpdateOfferViewModel.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwCcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:02:59.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240511132756_intialMigration2.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511132756_intialMigration2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240511132756_intialMigration2.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511132756_intialMigration2.cs",
+              "RelativeToolTip": "Migrations\\20240511132756_intialMigration2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:27:57.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CreateSkillViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CreateSkillViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CreateSkillViewModel.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CreateSkillViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CreateSkillViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:25:06.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240511125529_intialMigration2.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511125529_intialMigration2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240511125529_intialMigration2.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511125529_intialMigration2.cs",
+              "RelativeToolTip": "Migrations\\20240511125529_intialMigration2.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAQwBQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:55:29.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CreateProfilViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CreateProfilViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CreateProfilViewModel.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CreateProfilViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CreateProfilViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:25:25.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "TextHelper.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Common\\TextHelper.cs",
+              "RelativeDocumentMoniker": "Common\\TextHelper.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Common\\TextHelper.cs",
+              "RelativeToolTip": "Common\\TextHelper.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:34:47.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "RoleSeeder.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Common\\RoleSeeder.cs",
+              "RelativeDocumentMoniker": "Common\\RoleSeeder.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Common\\RoleSeeder.cs",
+              "RelativeToolTip": "Common\\RoleSeeder.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:41:06.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CreateProvinceViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CreateProvinceViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CreateProvinceViewModel.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CreateProvinceViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CreateProvinceViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T01:18:09.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "CreateCVViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CreateCVViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CreateCVViewModel.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\CreateCVViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CreateCVViewModel.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:21:57.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "Models\\Skill.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Models\\Skill.cs",
+              "RelativeToolTip": "Models\\Skill.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:14:43.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T23:52:11.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240511090318_UpdateOfferMigration6.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511090318_UpdateOfferMigration6.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240511090318_UpdateOfferMigration6.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511090318_UpdateOfferMigration6.cs",
+              "RelativeToolTip": "Migrations\\20240511090318_UpdateOfferMigration6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:03:18.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240511090501_UpdateOfferMigrationn.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511090501_UpdateOfferMigrationn.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240511090501_UpdateOfferMigrationn.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511090501_UpdateOfferMigrationn.cs",
+              "RelativeToolTip": "Migrations\\20240511090501_UpdateOfferMigrationn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:05:02.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240511093136_intialMigration.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511093136_intialMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240511093136_intialMigration.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511093136_intialMigration.cs",
+              "RelativeToolTip": "Migrations\\20240511093136_intialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:31:37.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240511085701_UpdateOfferMigration5.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511085701_UpdateOfferMigration5.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240511085701_UpdateOfferMigration5.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511085701_UpdateOfferMigration5.cs",
+              "RelativeToolTip": "Migrations\\20240511085701_UpdateOfferMigration5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:57:02.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240511082054_UpdateOfferMigration4.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511082054_UpdateOfferMigration4.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240511082054_UpdateOfferMigration4.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511082054_UpdateOfferMigration4.cs",
+              "RelativeToolTip": "Migrations\\20240511082054_UpdateOfferMigration4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:20:55.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240511080224_UpdateOfferMigration3.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511080224_UpdateOfferMigration3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240511080224_UpdateOfferMigration3.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511080224_UpdateOfferMigration3.cs",
+              "RelativeToolTip": "Migrations\\20240511080224_UpdateOfferMigration3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:02:24.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240511075707_UpdateOfferMigration2.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511075707_UpdateOfferMigration2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240511075707_UpdateOfferMigration2.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240511075707_UpdateOfferMigration2.cs",
+              "RelativeToolTip": "Migrations\\20240511075707_UpdateOfferMigration2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:57:07.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240510181929_updateSectorMigration.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240510181929_updateSectorMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240510181929_updateSectorMigration.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240510181929_updateSectorMigration.cs",
+              "RelativeToolTip": "Migrations\\20240510181929_updateSectorMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:19:29.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240510161547_updateOfferMigration.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240510161547_updateOfferMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240510161547_updateOfferMigration.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240510161547_updateOfferMigration.cs",
+              "RelativeToolTip": "Migrations\\20240510161547_updateOfferMigration.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:15:47.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240510161059_SeedProvinceTable.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240510161059_SeedProvinceTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240510161059_SeedProvinceTable.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240510161059_SeedProvinceTable.cs",
+              "RelativeToolTip": "Migrations\\20240510161059_SeedProvinceTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:11:00.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240510152303_updateOfferMigration.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240510152303_updateOfferMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240510152303_updateOfferMigration.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Migrations\\20240510152303_updateOfferMigration.cs",
+              "RelativeToolTip": "Migrations\\20240510152303_updateOfferMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:23:03.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T18:43:42.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\AppData\\Local\\Temp\\ae065871-7192-4b9b-a00e-5f98098259b4_job-portal-main.zip.9b4\\job-portal-main\\JobPortal.WebApp\\Areas\\Employer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\abdel\\AppData\\Local\\Temp\\ae065871-7192-4b9b-a00e-5f98098259b4_job-portal-main.zip.9b4\\job-portal-main\\JobPortal.WebApp\\Areas\\Employer\\Controllers\\HomeController.cs [Read Only]",
+              "ViewState": "AQIAACsAAAAAAAAAAAAUwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:52:32.729Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ChangePasswordViewModel.cs",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\ViewModel\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "ViewModel\\ChangePasswordViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:56:39.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Candidate\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Candidate\\Register.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Candidate\\Register.cshtml",
+              "RelativeToolTip": "Views\\Candidate\\Register.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAcwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T23:34:13.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T00:58:22.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T01:10:48.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T01:10:54.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\.Net\\DotNet\\Project\\E-Recrutement\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-05T00:58:24.709Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

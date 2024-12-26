@@ -1,0 +1,59 @@
+﻿@model IEnumerable<E_Recrutement.Models.Offer>
+
+
+@{
+    Layout = "_Layout";
+  
+}
+
+<!-- Start banner Area -->
+<section class="banner-area relative" id="home">
+    <div ></div>
+    <div class="container">
+        <div class="row search-page-top d-flex align-items-center justify-content-center">
+            <div class="banner-content col-lg-12">
+                <h1 class="text-white">
+                    <span>@ViewBag.jobCount+</span> Offers posted week ago
+                </h1>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Category -->
+<!-- Start features Area -->
+<section class="features-area">
+    <div class="container">
+        <!-- Category view component-->
+        <vc:sector></vc:sector>
+    </div>
+</section>
+
+
+
+
+
+
+
+@functions {
+    public string GetTimeAgo(DateTime? createDate)
+    {
+        DateTime actualCreateDate = createDate.Value;
+        TimeSpan timeAgo = DateTime.Now - actualCreateDate;
+
+        if (timeAgo.TotalMinutes < 60)
+        {
+            return $"Posted {Math.Max(1, (int)timeAgo.TotalMinutes)} minute{(timeAgo.TotalMinutes >= 2 ? "s" : "")} ago";
+        }
+        else if (timeAgo.TotalHours < 24)
+        {
+            return $"Posted {Math.Max(1, (int)timeAgo.TotalHours)} hour{(timeAgo.TotalHours >= 2 ? "s" : "")} ago";
+        }
+        else
+        {
+            return $"Posted {Math.Max(1, (int)timeAgo.TotalDays)} day{(timeAgo.TotalDays >= 2 ? "s" : "")} ago";
+        }
+    }
+}
